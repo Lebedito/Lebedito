@@ -1,7 +1,7 @@
 ### Hello, my name is Mariana,
 
 - I´m interested in testing 
-- I love :horse: :ice_skate: :sunny: :blossom: :sailboat: :ocean:
+- I love :horse: :ice_skate: :ping_pong: :sunny: :blossom: :sailboat: :ocean: 
 
 <!--
 **Lebedito/Lebedito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
