@@ -4,7 +4,7 @@
 - I love :horse: :ice_skate: :ping_pong: :sunny: :blossom: :sailboat: :ocean: 
  
 <div id="header" align="left">                                                   
-  <img src="https://media.giphy.com/media/tSti2Eqe5j1Di/giphy.gif" width="500"/> <img src="https://media.giphy.com/media/tSti2Eqe5j1Di/giphy.gif" width="300"/> <img src="https://media.giphy.com/media/tSti2Eqe5j1Di/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/tSti2Eqe5j1Di/giphy.gif" width="400"/> <img src="https://media.giphy.com/media/tSti2Eqe5j1Di/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/tSti2Eqe5j1Di/giphy.gif" width="100"/>
 </div>
 
 
