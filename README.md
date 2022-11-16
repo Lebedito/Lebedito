@@ -7,7 +7,6 @@
   <img src="https://media.giphy.com/media/tSti2Eqe5j1Di/giphy.gif" width="400"/>
 </div>
 
-
 <!--
 **Lebedito/Lebedito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
