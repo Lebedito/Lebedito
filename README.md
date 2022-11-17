@@ -9,6 +9,15 @@
 
 
 
+<description><p>picture of the day</p><p><a href="https://365project.org/lebedito/365/2022-11-17" title="2022-11-17 - 001"><img src="https://media.365project.org/1/9181496_einqrtuwz6_s.jpg" alt="2022-11-17 - 001"></a></p><p></p></description>
+</item>
+</channel>
+</rss>
+
+
+
+
+
 <!--
 **Lebedito/Lebedito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
