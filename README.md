@@ -9,7 +9,7 @@
 - :sunny: :blossom: :sailboat: :ocean: I love nature, hiking, sunny weather, yachting
 <hr>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=40&pause=1000&color=140C33&background=03030300&vCenter=true&width=435&lines=Keep+smiling" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=140C33&background=03030300&vCenter=true&width=435&lines=Keep+smiling+☮" alt="Typing SVG" /></a>
 
 
 
