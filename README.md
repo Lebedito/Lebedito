@@ -12,6 +12,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=140C33&background=03030300&vCenter=true&width=435&lines=Keep+smiling+☮" alt="Typing SVG" /></a>
 
 
+![015 - kopie](https://user-images.githubusercontent.com/117156625/203839266-b9adf57f-7ea6-4521-8800-2a51cd343b64.jpg)
+
 
 
 
