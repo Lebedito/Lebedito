@@ -3,7 +3,7 @@
 - I´m interested in testing <a href="http://certificate.kitner.cz/966816323.pdf">|my certificate|</a>
 - I would like to also learn a bit more about HTML and graphic design
 - My hobbies are:
-- :horse: A very kind horse named Korálek
+- :horse: A very kind horse named <a href="https://lebedito.rajce.idnes.cz/Koralek">Korálek</a>
 - :thread: :yarn: Sewing, patchwork, crocheting, mosaic... the more tiny the better 
 - :ice_skate: A few years ago I started to take lessons of figure skating, so now I´m able to make a basic waltz jump :joy:   
 - :sunny: :blossom: :sailboat: :ocean: I love nature, hiking, sunny weather, yachting
